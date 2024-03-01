@@ -109,7 +109,7 @@ new Kursor({
   color: '#476582'
 })
 ```
-## Types
+### Types
 The property that changes the cursor is type and at the moment we only have 5 types of cursors
 
 ## Contributing
