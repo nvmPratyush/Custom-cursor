@@ -66,6 +66,7 @@ The easiest way to try out Kursor.js is using the [JSFiddle Hello World example]
 Kursor.js is a very simple library to configure, when instantiating the global variable kursor as a parameter we pass the options to create the cursor (mouse)
 
 ### type
+The property that changes the cursor is type
 Change the theme of the kursor, as value is of type Number and at the moment there are only 5 types of cursors
 
 ```js
@@ -109,8 +110,6 @@ new Kursor({
   color: '#476582'
 })
 ```
-### Types
-The property that changes the cursor is type and at the moment we only have 5 types of cursors
 
 ## Contributing
 Contributions to enhance or expand the project are welcome. Feel free to fork the repository, make changes, and submit pull requests.
