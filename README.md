@@ -1,4 +1,4 @@
-# Coustem Cursor
+# custom cursor
 
 ## Introduction
 It's custom cursor that makes your mouse pointer more fun and personalized in your website
